@@ -37,7 +37,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:vijeyash@intelops.dev'>vijeyash@intelops.dev</a>
+  📫 How to reach me: <a href='mailto:vijeyash@intelops.dev'>vijeyash@gmail.com</a>
 </p>
 
 ## SKILLS 
